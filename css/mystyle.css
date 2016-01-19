@@ -1,0 +1,42 @@
+h1 {
+	color: white;
+	font-family: "Tahoma";
+	text-decoration: underline;
+	text-align: center;
+
+}
+
+body {
+	background-image: url("bgimage.jpg");	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+
+}
+
+p {
+	color:black;
+	font-weight: bold;
+	font-family: "Times New Roman", serif;
+	font-size: 150%;
+	margin-left: 500px;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 500px;
+}
+h2{
+	color:white;
+	text-decoration: underline;
+}
+
+ul{
+	
+	color: white;
+	font-style: italic;
+}
+a {
+	text-decoration: underline;
+	color: white;
+	font-family: "Tahoma";
+	font-size: 100px;
+}
